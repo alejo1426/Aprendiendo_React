@@ -1,2 +1,2 @@
 # Repo_React
-# Ultima-Actualizacion: Pc Portatil
+# Ultima-Actualizacion: Pc Mesa
